@@ -1,1 +1,1 @@
-![Vim Logo](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)
+![Vim Logo](https://github.com/Tejasmote/Installation/blob/main/vim.png)
