@@ -7407,13 +7407,13 @@ intro_message(
 	N_("VIM - Vi IMproved"),
 	"",
 	N_("version "),
-	N_("by Bram Moolenaar et al."),
+	N_("by Tejas Dattatray Mote et al."),
 #ifdef MODIFIED_BY
 	" ",
 #endif
 	N_("Vim is open source and freely distributable"),
 	"",
-	N_("Help poor children in Uganda!"),
+	N_("Helping SIT-Students to improve there coding"),
 	N_("type  :help iccf<Enter>       for information "),
 	"",
 	N_("type  :q<Enter>               to exit         "),
